@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Dev Asp.net Core**
 
-- 💬 Ask me about **C#, DataBase, DSA**
+- 💬 Ask me about **C#, Database, DSA**
 
 - 📫 How to reach me **albassel.abobakr11@gmail.com**
 
